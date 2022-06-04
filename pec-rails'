@@ -1,0 +1,89 @@
+[33mcommit 9c469181f39a6493d6e24c9474f6fd8bbf6a42b8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: RyotoTsuchiyama <106653745+ttymryo@users.noreply.github.com>
+Date:   Sat Jun 4 06:16:25 2022 +0000
+
+    [Add]RSpec
+
+[33mcommit b31b56ce120886dd05eaae530e4027ad3e65a92b[m
+Author: RyotoTsuchiyama <106653745+ttymryo@users.noreply.github.com>
+Date:   Sat Jun 4 05:52:49 2022 +0000
+
+    [Update]top.home
+
+[33mcommit 968314be5372d69b77ba2a268bf78edf05137e20[m
+Author: RyotoTsuchiyama <106653745+ttymryo@users.noreply.github.com>
+Date:   Sat Jun 4 05:45:41 2022 +0000
+
+    [Update]Edit.book
+
+[33mcommit e7622d1e3a1717dfc4e66f360f2ba020fa37b369[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: RyotoTsuchiyama <106653745+ttymryo@users.noreply.github.com>
+Date:   Sat Jun 4 05:38:58 2022 +0000
+
+    [Add]flash.message
+
+[33mcommit 3c8cd880286c58f51d8a34aa5d54b43ff1fef307[m
+Author: RyotoTsuchiyama <106653745+ttymryo@users.noreply.github.com>
+Date:   Sat Jun 4 05:34:07 2022 +0000
+
+    [Add]error.message
+
+[33mcommit 43a15f7ce5b419b108c74f3270549039c8bfe89c[m
+Author: RyotoTsuchiyama <106653745+ttymryo@users.noreply.github.com>
+Date:   Sat Jun 4 05:15:52 2022 +0000
+
+    [Add]book.destroy
+
+[33mcommit ae3e4625991e09395b4764144862174f1d879ee0[m
+Author: RyotoTsuchiyama <106653745+ttymryo@users.noreply.github.com>
+Date:   Sat Jun 4 04:54:17 2022 +0000
+
+    [add]book.update
+
+[33mcommit c608aab1534c9aa2fb621d893ad887fe7a653b4d[m
+Author: RyotoTsuchiyama <106653745+ttymryo@users.noreply.github.com>
+Date:   Sat Jun 4 04:40:08 2022 +0000
+
+    [Fix]book.index
+
+[33mcommit 6f11f36bef73c70d9afef511c306bacdc6413e15[m
+Author: RyotoTsuchiyama <106653745+ttymryo@users.noreply.github.com>
+Date:   Sat Jun 4 04:37:59 2022 +0000
+
+    [Add]book.index
+
+[33mcommit 166920a5fd54cfd5d49ea93d18490c40c9b86a99[m
+Author: RyotoTsuchiyama <106653745+ttymryo@users.noreply.github.com>
+Date:   Sat Jun 4 04:27:49 2022 +0000
+
+    [Add]book.edit
+
+[33mcommit 463f08c6819fee7d6e3439c1cd59f2d1bc96c002[m
+Author: RyotoTsuchiyama <106653745+ttymryo@users.noreply.github.com>
+Date:   Sat Jun 4 04:13:43 2022 +0000
+
+    [Add]create.book
+
+[33mcommit 1b6d92a265622bafcbb9d859f34c482b9dd5ef25[m
+Author: RyotoTsuchiyama <106653745+ttymryo@users.noreply.github.com>
+Date:   Sat Jun 4 03:55:44 2022 +0000
+
+    [Change]controller
+
+[33mcommit 11a081cdb63a6110ab19870bc900cad07e53ee39[m
+Author: RyotoTsuchiyama <106653745+ttymryo@users.noreply.github.com>
+Date:   Sat Jun 4 03:53:29 2022 +0000
+
+    [Change]controller
+
+[33mcommit a6d02df97975c93fdeba88244b48fd5ca310c92e[m
+Author: RyotoTsuchiyama <106653745+ttymryo@users.noreply.github.com>
+Date:   Fri Jun 3 12:53:21 2022 +0000
+
+    [Add]model controller
+
+[33mcommit a746905f6ce3c0b141a32738affdbae29c7dbfeb[m
+Author: RyotoTsuchiyama <106653745+ttymryo@users.noreply.github.com>
+Date:   Fri Jun 3 11:39:07 2022 +0000
+
+    [Start]Bookers
